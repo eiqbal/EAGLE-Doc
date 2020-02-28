@@ -1,2 +1,3 @@
 # EAGLE-Doc
-Strapi &amp; Gatsby learning repository
+Strapi & Gatsby learning repository
+This respository is to downoad Git and create repository and branches
